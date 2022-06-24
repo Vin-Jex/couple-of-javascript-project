@@ -18,5 +18,7 @@
 
 > DOM Traversing
 
+> How to use getBoundingClientRect, slice, offsetTop, pageYOffset
+
 
 #### *Please note that this projects was only coded by `pythoniclaver` and was not created by `Pythoniclaver` but create by <!--  [John Smilga](www.johnsmilga.com)--> <a href="www.johnsmilga.com">www.johnsmilga.com</a>*
