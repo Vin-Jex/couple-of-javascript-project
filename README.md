@@ -20,5 +20,13 @@
 
 > How to use getBoundingClientRect, slice, offsetTop, pageYOffset
 
+> how to use the date method
 
+> Using local storage
+
+> How to think as a JavaScript Developer
+
+> How to use conditions well
+
+> This project basically helps you shapen your JavaScript knowledge
 #### *Please note that this projects was only coded by `pythoniclaver` and was not created by `Pythoniclaver` but create by <!--  [John Smilga](www.johnsmilga.com)--> <a href="www.johnsmilga.com">www.johnsmilga.com</a>*
